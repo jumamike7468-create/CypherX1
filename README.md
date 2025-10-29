@@ -1,13 +1,13 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
++254117279782<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
     <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
-  </a>
-</p>
+  </a>admin whatsapp block links
+</p> admin whatsapp block status mentioning
     
-</a>
-</p>
+</a>delete messages
+</p>reset warning
 <p align="center">
 <a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
